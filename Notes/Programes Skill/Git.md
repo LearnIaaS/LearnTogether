@@ -4,11 +4,11 @@
 
 打开 GitHub 账号，进入 setting，设置 ssh：
 
-![Settings](\img\002.jpg)
+![Settings_图1](\img\002.jpg)
 
-![New SSH key](\img\003.jpg)
+![New SSH key_图2](\img\003.jpg)
 
-![Add SSH key](\img\004.jpg)
+![Add SSH key_图3](\img\004.jpg)
 
 找到本地 .ssh 密钥，我的位置如下：
 
@@ -16,7 +16,7 @@
 C:\Users\ArtistQiu\.ssh
 ```
 
-![.ssh 位置](\img\004.jpg)
+![.ssh 位置_图4](\img\004.jpg)
 
 打开 `id_rsa.pub` ，将文件中的内容复制粘贴到 Key 中即可。
 
@@ -36,16 +36,16 @@ $ git push # 推送。
 
 效果如图：
 
-![效果](\img\005.jpg)
+![效果_图5](\img\005.jpg)
 
 ## 图片补充
 
-![Settings](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/002.jpg)
+图1：![Settings](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/002.jpg)
 
-![New SSH key](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/003.jpg)
+图2：![New SSH key](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/003.jpg)
 
-![Add SSH key](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/004.jpg)
+图3：![Add SSH key](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/004.jpg)
 
-![.ssh 位置](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/001.jpg)
+图4：![.ssh 位置](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/001.jpg)
 
-![效果](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/005.jpg)
+图5：![效果](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/005.jpg)
