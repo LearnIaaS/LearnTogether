@@ -4,11 +4,11 @@
 
 打开 GitHub 账号，进入 setting，设置 ssh：
 
-![](D:\LearnTogether\Notes\Programes Skill\img\002.jpg)
+![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/002.jpg)
 
-![](D:\LearnTogether\Notes\Programes Skill\img\003.jpg)
+![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/003.jpg)
 
-![](D:\LearnTogether\Notes\Programes Skill\img\004.jpg)
+![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/004.jpg)
 
 找到本地 .ssh 密钥，我的位置如下：
 
