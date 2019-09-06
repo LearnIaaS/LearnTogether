@@ -16,9 +16,16 @@
 C:\Users\ArtistQiu\.ssh
 ```
 
+打开 `id_rsa.pub` ，将文件中的内容复制粘贴到 Key 中即可：
+
 ![.ssh 位置_图4](img\004.jpg)
 
-打开 `id_rsa.pub` ，将文件中的内容复制粘贴到 Key 中即可。
+在本地计算机安装 git，[git 官网](https://git-scm.com/downloads)。安装完成后打开 Git Bash，设置你的名字和地址，例如：
+
+```shell
+$ git config --global user.name "QiuHongjian"
+$ git config --global user.email "675435368@qq.com"
+```
 
 之后在某个你想要下载的本地位置鼠标右键，选择 `git bash here`，打开 git 命令行：
 
