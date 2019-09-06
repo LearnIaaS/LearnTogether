@@ -8,7 +8,7 @@
 C:\Users\ArtistQiu\.ssh
 ```
 
-![.ssh文件位置](\img\001.jpg)
+![.ssh文件位置](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/001.jpg)
 
 ```shell
 $ git add -A
