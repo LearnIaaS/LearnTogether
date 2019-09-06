@@ -44,26 +44,26 @@ $ git push # 推送。
 
 ## 图片补充
 
-图1：
+Settings_图1：
 
 ![Settings](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/002.jpg)
 
-图2：
+New SSH key_图2：
 
 ![New SSH key](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/003.jpg)
 
-图3：
+Add SSH key_图3：
 
 ![Add SSH key](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/004.jpg)
 
-图4：
+.ssh 位置_图4：
 
 ![.ssh 位置](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/001.jpg)
 
-图5：
+打开 Git Bash Here_图5：
 
-![效果](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/006.jpg)
+![打开 Git Bash Here](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/006.jpg)
 
-图6：
+效果_图6：
 
 ![效果](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/005.jpg)
