@@ -4,11 +4,11 @@
 
 打开 GitHub 账号，进入 setting，设置 ssh：
 
-![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/002.jpg)
+![](\img\002.jpg)
 
-![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/003.jpg)
+![](\img\003.jpg)
 
-![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/004.jpg)
+![](\img\001.jpg)
 
 找到本地 .ssh 密钥，我的位置如下：
 
@@ -36,5 +36,16 @@ $ git push # 推送。
 
 效果如图：
 
+![](\img\005.jpg)
 
+图片补充：
 
+![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/002.jpg)
+
+![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/003.jpg)
+
+![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/004.jpg)
+
+![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/001.jpg)
+
+![](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/005.jpg)
