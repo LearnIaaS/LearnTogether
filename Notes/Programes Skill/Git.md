@@ -22,7 +22,7 @@ C:\Users\ArtistQiu\.ssh
 
 之后在某个你想要下载的本地位置鼠标右键，选择 `git bash here`，打开 git 命令行：
 
-![打开 Git Bash Here](img\006.jpg)
+![打开 Git Bash Here_图5](img\006.jpg)
 
  将仓库克隆到本地：
 
@@ -40,7 +40,7 @@ $ git push # 推送。
 
 效果如图：
 
-![效果_图5](img\005.jpg)
+![效果_图6](img\005.jpg)
 
 ## 图片补充
 
@@ -61,5 +61,9 @@ $ git push # 推送。
 ![.ssh 位置](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/001.jpg)
 
 图5：
+
+![效果](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/006.jpg)
+
+图6：
 
 ![效果](https://github.com/LearnIaaS/LearnTogether/blob/master/Notes/Programes%20Skill/img/005.jpg)
