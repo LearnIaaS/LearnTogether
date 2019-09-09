@@ -1,0 +1,1 @@
+/usr/bin/c++    -DGFLAGS_NS=gflags -DNDEBUG -O2 -D__const__= -pipe -W -Wall -Wno-unused-parameter -fPIC -fno-omit-frame-pointer -DBRPC_ENABLE_CPU_PROFILER -std=c++11    CMakeFiles/multi_threaded_echo_server_test.dir/server_test.cpp.o CMakeFiles/multi_threaded_echo_server_test.dir/echo.pb.cc.o  -o multi_threaded_echo_server_test -rdynamic 

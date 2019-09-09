@@ -1,0 +1,3 @@
+/root/incubator-brpc/example/multi_threaded_echo_c++/build/CMakeFiles/multi_threaded_echo_client.dir
+/root/incubator-brpc/example/multi_threaded_echo_c++/build/CMakeFiles/multi_threaded_echo_client_test.dir
+/root/incubator-brpc/example/multi_threaded_echo_c++/build/CMakeFiles/multi_threaded_echo_server.dir
